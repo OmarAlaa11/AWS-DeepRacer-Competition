@@ -1,5 +1,8 @@
 # AWS-DeepRacer-Competition
 
+https://github.com/user-attachments/assets/d208573a-19ae-420c-87fc-9549fb2f3c5e
+
+
 Action Space & Hyperparameter Optimization in Amazon DeepRacer
 Action Space
 In Amazon DeepRacer, the action space defines the set of possible actions the autonomous car can take at each time step. It consists of:
@@ -18,3 +21,5 @@ Discount Factor (Gamma, γ): Controls the importance of future rewards in reinfo
 Exploration vs. Exploitation: Adjusted using epsilon-greedy strategies or entropy regularization.
 Neural Network Architecture: Optimized for feature extraction from sensor inputs (camera images).
 Fine-tuning these parameters ensures the DeepRacer efficiently learns optimal racing strategies, balancing speed and control while staying on track.
+
+
